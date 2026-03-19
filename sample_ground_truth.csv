@@ -1,0 +1,5 @@
+Query_ID,Category,Query_Text,Challenge_Description
+Q-04,Type A: Numeric (Lexical),"What is the FRL required for a loadbearing external wall in Type A construction?",Precision Gap: Requires exact match of 90/90/90. Semantic vectors often fail.
+Q-12,Type A: Identifier (Lexical),"According to Clause C2.3, how are large, isolated buildings defined?",Lexical Rigidity: Requires exact retrieval of Clause C2.3 over C2.4.
+Q-27,Type B: Semantic (Conceptual),"How do we prevent fire spreading via external openings?",Synonymy: Maps spreading to Protection of openings. Keyword search fails.
+Q-35,Type B: Implied (Conceptual),"Are lightweight construction materials permitted in fire walls?",Inference: Infers non-compliance from absence of keywords; prescribes masonry or concrete.
